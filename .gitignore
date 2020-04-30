@@ -1,0 +1,11 @@
+*/bin
+*/build
+*/target
+*/xtend-gen
+*/src-gen
+*.xml_gen
+.metadata
+.gradle
+.vscode
+eclipse-*
+.antlr-generator-*-patch.jar
